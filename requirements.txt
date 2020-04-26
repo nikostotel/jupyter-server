@@ -2,7 +2,5 @@ pandas
 numpy
 sklearn
 seaborn
+matplotlib
 xgboost
-tensorflow
-pytorch
-fastai
