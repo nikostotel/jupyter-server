@@ -3,6 +3,6 @@ numpy
 sklearn
 seaborn
 xgboost
-tensorflor
+tensorflow
 pytorch
 fastai
