@@ -1,7 +1,6 @@
 pandas
 numpy
 sklearn
-matplotlib.pyplot
 seaborn
 xgboost
 tensorflor
